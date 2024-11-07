@@ -1,132 +1,162 @@
 [
     {
-        "name": "Python разработчик",
-        "city": "Москва",
+        "name": "Senior Backend Developer",
+        "employer": "getmatch",
+        "area": "Москва",
+        "requirement": "Платформы JVM (Java/Kotlin) от 5ти лет коммерческого опыта. Алгоритмов и структур данных. Работа поисковых систем (индексация, ранжирование, etc). ",
+        "responsibility": "Увеличить количество контактов типа Telegram. Написать автоматизацию для скачки сайтов требующих JS-render. Добавить аналитику с долями размера разных полей...",
+        "experience": "От 3 до 6 лет",
+        "schedule": "Полный день",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/103021172",
         "salary": {
             "from": 250000,
-            "to": 300000
-        },
-        "url": "https://hh.ru/vacancy/108168771",
-        "description": "Python 3. Опыт работы с фреймворком FastAPI и с асинхронным вызовами (Asyncpg, Asyncio ...). Опыт работы с микросервисной архитектурой. Docker. PostgreSQL. "
+            "to": 0,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Python разработчик",
-        "city": "Москва",
+        "name": "TON-разработчик | TON Developer",
+        "employer": "OQTACORE",
+        "area": "Москва",
+        "requirement": "Инструменты и библиотеки: @tma.js/sdk, mkcert, Git. Опыт разработки на JavaScript и TypeScript. Знание React. Опыт работы с Telegram API...",
+        "responsibility": "Фреймворки: React. Разработка и поддержка мини-приложений для Telegram на платформе TON. Интеграция приложений с API Telegram и TON. ",
+        "experience": "Нет опыта",
+        "schedule": "Удаленная работа",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/104432879",
         "salary": {
             "from": 200000,
-            "to": 250000
-        },
-        "url": "https://hh.ru/vacancy/108289524",
-        "description": "Опыт коммерческой разработки на Python от 3 лет. Опыт коммерческой разработки с FastApi от 2 лет. Опыт работы с микросервисной..."
+            "to": 300000,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Python-разработчик ( Разработка парсеров)",
-        "city": "Москва",
+        "name": "Middle frontend разработчик (Vue.js)",
+        "employer": "Kerber",
+        "area": "Казань",
+        "requirement": "Frontend: Опыт работы с Vue.js, знание Vuex. Контейнеризация: Опыт работы с Docker и Docker Compose. Кэширование: Опыт работы с Redis. ",
+        "responsibility": "Разработка и поддержка веб-приложений. Интеграция с Telegram mini app. Работа с Frontend частями проекта. Управление контейнерами и серверной инфраструктурой.",
+        "experience": "От 3 до 6 лет",
+        "schedule": "Удаленная работа",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/103251394",
         "salary": {
-            "from": 200000,
-            "to": 0
-        },
-        "url": "https://hh.ru/vacancy/108121890",
-        "description": "Отличное знание Python: Requests, Selenium, BeautifulSoup, асинхронщина. Знание Go будет плюсом. Понимание механизмов парсинга данных. Отдельно важен опыт с решениями..."
+            "from": 0,
+            "to": 200000,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Middle+ Python Developer",
-        "city": "Москва",
-        "salary": {
-            "from": 220000,
-            "to": 300000
-        },
-        "url": "https://hh.ru/vacancy/108342926",
-        "description": "Опыт разработки на Python от 3 лет. Опыт бэкэнд-разработки от 5 лет. Опыт разработки высоконагруженных и отказоустойчивых систем. "
-    },
-    {
-        "name": "Middle Python Backend Developer",
-        "city": "Москва",
-        "salary": {
-            "from": 190000,
-            "to": 0
-        },
-        "url": "https://hh.ru/vacancy/108281326",
-        "description": "Опыт от 1 года. Нам очень важен опыт с любым асинхронным фреймворком (fastapi, aiohttp, tornado). Мы не используем django в..."
-    },
-    {
-        "name": "Junior Python разработчик",
-        "city": "Москва",
-        "salary": {
-            "from": 125000,
-            "to": 0
-        },
-        "url": "https://hh.ru/vacancy/108001774",
-        "description": "Базовые знания Python. Понимание ООП. Опыт работы с фреймворками (например, Django, Flask). Знание SQL. Базовые знания HTML, CSS, JavaScript. "
-    },
-    {
-        "name": "Middle Python разработчик",
-        "city": "Москва",
+        "name": "Python developer",
+        "employer": "Leads",
+        "area": "Москва",
+        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext>. Опыт разработки чат-ботов для Telegram и/или Discord. Знание API Telegram и/или Discord. ",
+        "responsibility": "Разработка чат-бота на <highlighttext>Python</highlighttext> с использованием последних достижений в области искусственного интеллекта, машинного обучения и обработки больших данных под...",
+        "experience": "От 1 года до 3 лет",
+        "schedule": "Удаленная работа",
+        "employment": "Проектная работа",
+        "url": "https://hh.ru/vacancy/103312201",
         "salary": {
             "from": 150000,
-            "to": 0
-        },
-        "url": "https://hh.ru/vacancy/108126532",
-        "description": "GitLab. Опыт работы на позиции middle <highlighttext>разработчик</highlighttext> Python от 3 лет. Глубокое понимание структур данных, алгоритмов и объектно-ориентированного программирования..."
+            "to": 150000,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Backend Python",
-        "city": "Москва",
+        "name": "Fullstack разработчик",
+        "employer": "Корнюхин Александр Викторович",
+        "area": "Москва",
+        "requirement": "Знание языков программирования, таких как <highlighttext>Python</highlighttext>, JS и других. Знание протоколов HTTPS, и других мер безопасности в web-разработке. ",
+        "responsibility": "Верстка web-страниц по макетам. Разработка по ТЗ, внедрение и дальнейшая поддержка Telegram-ботов. Работа с тестированием и обеспечение безопасности...",
+        "experience": "От 1 года до 3 лет",
+        "schedule": "Удаленная работа",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/104225981",
         "salary": {
-            "from": 120000,
-            "to": 180000
-        },
-        "url": "https://hh.ru/vacancy/108016985",
-        "description": "Имеете опыт коммерческой разработки на Python (FastAPI). Имеете опыт разработки с СУБД используя Entity Framework. Имеете опыт асинхронного программирования, как..."
+            "from": 100000,
+            "to": 0,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Программист Python",
-        "city": "Москва",
+        "name": "Программист",
+        "employer": "Дорошенко Александр Александрович",
+        "area": "Москва",
+        "requirement": "Опыт командной разработки. Будет плюсом: - Опыт работы с Git. - Опыт работы с Docker. - Опыт работы с <highlighttext>Python</highlighttext>3.",
+        "responsibility": "Продукт: разработка проектов для Telegram miniApps. В основном разработка веб приложений и интеграция с платежными системами, в том числе на...",
+        "experience": "Нет опыта",
+        "schedule": "Удаленная работа",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/104018898",
         "salary": {
-            "from": 160000,
-            "to": 0
-        },
-        "url": "https://hh.ru/vacancy/107156226",
-        "description": "Опыт коммерческой разработки Back-end на Python от 1-го года. Знание фреймворка FastAPI. Знание принципов построения REST API. "
+            "from": 60000,
+            "to": 300000,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Python-разработчик Middle",
-        "city": "Москва",
+        "name": "Программист-разработчик",
+        "employer": "Банки Промо",
+        "area": "Ижевск",
+        "requirement": "Знание библиотек для создания ботов (telepot для <highlighttext>Python</highlighttext>, telegram-bot-sdk для JavaScript и т.д.). 5. DevOps навыки: - Опыт...",
+        "responsibility": "1. Языки программирования: - **Backend:**. - Интеграционные тесты и тестирование API.",
+        "experience": "От 1 года до 3 лет",
+        "schedule": "Полный день",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/103126422",
         "salary": {
-            "from": 180000,
-            "to": 220000
-        },
-        "url": "https://hh.ru/vacancy/107811370",
-        "description": "Участие в код-ревью и обмене опытом с командой. Требования: - Опыт коммерческой разработки на Python от 2 лет. - "
+            "from": 60000,
+            "to": 120000,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Backend-разработчик",
-        "city": "Москва",
+        "name": "Водитель с личным автомобилем (от 70100 до 81800 рублей в неделю)",
+        "employer": "Рулю",
+        "area": "Москва",
+        "requirement": "Стаж вождения от 3-х лет по категории \"B\". - Личный легковой авто. - Желание зарабатывать.",
+        "responsibility": "Перевозить пассажиров/доставлять посылки ( на ваш выбор).",
+        "experience": "Нет опыта",
+        "schedule": "Полный день",
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/104382231",
         "salary": {
-            "from": 170000,
-            "to": 0
-        },
-        "url": "https://hh.ru/vacancy/108094310",
-        "description": "Имеет опыт на аналогичной должности от 3 лет. Знания: Python, Node.js, Java, SQL, NoSQL (MongoDB), RESTful API, GraphQL. "
+            "from": 300000,
+            "to": 350000,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Python Developer",
-        "city": "Москва",
+        "name": "Водитель категории B ( Магазин / Склад )",
+        "employer": "Сенина Елена Васильевна",
+        "area": "Москва",
+        "requirement": "Опыт работы не требуется. - Стаж вождения 1,5 по В/У. - Умение ориентироваться на местности, выбирая лучший маршрут.",
+        "responsibility": "...компании#водитель курьер#курьер водитель#водитель в офис#водитель такси#водитель еженедельные выплаты#водитель погрузчика#водитель на легковой автомобиль#dводитель категории Б#водитель категории В# <highlighttext>водитель</highlighttext> в распределительный центр.",
+        "experience": "Нет опыта",
+        "schedule": "Сменный график",
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/104768052",
         "salary": {
-            "from": 150000,
-            "to": 0
-        },
-        "url": "https://hh.ru/vacancy/107903138",
-        "description": "Хорошее знание фреймворков FastAPI. Хорошее знание SQL. Понимание принципов ООП (SOLID, DRY, KISS). Уверенный уровень владения Git и командной строки. "
+            "from": 155000,
+            "to": 220000,
+            "currency": "RUR"
+        }
     },
     {
-        "name": "Мидл Python разработчик",
-        "city": "Москва",
+        "name": "Водитель-экспедитор со своим автомобилем",
+        "employer": "ЖАЛЮЗИ МАСТЕР",
+        "area": "Москва",
+        "requirement": "Свой автомобиль, можно легковой вместительный с багажником на крыше.",
+        "responsibility": "Загрузка в офисе изделиями Жалюзи, карнизами. Развозка по торговым точкам клиентов Жалюзи. Багажник на крыше, если автомобиль легковой. ",
+        "experience": "От 3 до 6 лет",
+        "schedule": "Полный день",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/104358555",
         "salary": {
-            "from": 150000,
-            "to": 300000
-        },
-        "url": "https://hh.ru/vacancy/107979691",
-        "description": "Опыт коммерческой разработки на Python — от 3 лет. Умение работать с асинхронными библиотеками и фреймворками (например, asyncio, aiohttp, FastAPI). "
+            "from": 140000,
+            "to": 140000,
+            "currency": "RUR"
+        }
     }
 ]
