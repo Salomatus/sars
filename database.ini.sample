@@ -1,0 +1,8 @@
+"""Создайте файл database.ini из копии этого файла и
+подставьте реальные значения данных подключения к БД"""
+
+[postgresql]
+host=localhost
+port=5432
+user=postgres
+password=postgres
